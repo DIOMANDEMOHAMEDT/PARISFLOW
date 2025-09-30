@@ -1,0 +1,5 @@
+{
+  "name": "PariFlow Pro",
+  "description": "A concrete daily workflow application for sports betting, specifically tailored for 'Over 2.5 goals' bets with a moderate risk strategy. It helps users manage a shortlist of matches through various analysis stages, build combined bets, and manage their bankroll.",
+  "requestFramePermissions": []
+}
